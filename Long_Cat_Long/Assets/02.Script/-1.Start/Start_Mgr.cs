@@ -28,6 +28,7 @@ public class Start_Mgr : MonoBehaviour
         //시작대기
         else
         {
+            // TODO: 시작대기
         }
     }
 }
